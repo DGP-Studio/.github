@@ -3,7 +3,7 @@
 |主体|[Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)|[Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)|[DGP.Genshin.GamebarWidget](https://github.com/DGP-Studio/DGP.Genshin.GamebarWidget)|
 |-|-|-|-|
 
-|站点|[Snap.Genshin.Docs](https://github.com/DGP-Studio/Snap.Genshin)|[Snap.Genshin.HutaoWeb](https://github.com/DGP-Studio/Snap.Genshin.HutaoWeb)|
+|站点|[Snap.Genshin.Docs](https://github.com/DGP-Studio/Snap.Genshin.Docs)|[Snap.Genshin.HutaoWeb](https://github.com/DGP-Studio/Snap.Genshin.HutaoWeb)|
 |-|-|-|
 
 |安装器|[Snap.Genshin.Setup](https://github.com/DGP-Studio/Snap.Genshin.Setup)|[Snap.Genshin.Installer](https://github.com/DGP-Studio/Snap.Genshin.Installer)|
