@@ -9,7 +9,7 @@
 |安装器|[Snap.Genshin.Setup](https://github.com/DGP-Studio/Snap.Genshin.Setup)|[Snap.Genshin.Installer](https://github.com/DGP-Studio/Snap.Genshin.Installer)|
 |-|-|-|
 
-|API|[Snap.Genshin.Website](https://github.com/DGP-Studio/Snap.Genshin.Website)|[Snap.Genshin.WebApiCore](https://github.com/DGP-Studio/Snap.Genshin.WebApiCore)|[Snap.Genshin.WebAPI](https://github.com/DGP-Studio/Snap.Genshin.WebAPI)|[Snap.Genshin.PatchAPI](https://github.com/DGP-Studio/Snap.Genshin.PatchAPI)|
+|API|[Snap.HutaoAPI](https://github.com/DGP-Studio/Snap.HutaoAPI)|[Snap.Genshin.WebApiCore](https://github.com/DGP-Studio/Snap.Genshin.WebApiCore)|[Snap.Genshin.WebAPI](https://github.com/DGP-Studio/Snap.Genshin.WebAPI)|[Snap.Genshin.PatchAPI](https://github.com/DGP-Studio/Snap.Genshin.PatchAPI)|
 |-|-|-|-|-|
 
 |工具|[Crawler-ghhw](https://github.com/DGP-Studio/Crawler-ghhw)|[DGP.Genshin.DataViewer](https://github.com/DGP-Studio/DGP.Genshin.DataViewer)|
