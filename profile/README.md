@@ -24,6 +24,6 @@
 
 |[Snap.Core.DependencyInjection](https://github.com/DGP-Studio/Snap.Core.DependencyInjection)|[Snap.Core.Logging](https://github.com/DGP-Studio/Snap.Core.Logging)|[Snap.Core.Mvvm](https://github.com/DGP-Studio/Snap.Core.Mvvm)|[Snap.Data.Json](https://github.com/DGP-Studio/Snap.Data.Json)|
 |:-:|:-:|:-:|:-:|
-|[Snap.Data.Primitive](https://github.com/DGP-Studio/Snap.Data.Primitive)|[Snap.Data.Utility](https://github.com/DGP-Studio/Snap.Data.Utility)|[Snap.Extension.Enumerable](https://github.com/DGP-Studio/Snap.Extension.Enumerable)|[Snap.Net.Afdian](https://github.com/DGP-Studio/Snap.Net.Download)|
+|[Snap.Data.Primitive](https://github.com/DGP-Studio/Snap.Data.Primitive)|[Snap.Data.Utility](https://github.com/DGP-Studio/Snap.Data.Utility)|[Snap.Extension.Enumerable](https://github.com/DGP-Studio/Snap.Extension.Enumerable)|[Snap.Net.Afdian](https://github.com/DGP-Studio/Snap.Net.Afdian)|
 |[Snap.Net.Download](https://github.com/DGP-Studio/Snap.Net.Download)|[Snap.Net.Networking](https://github.com/DGP-Studio/Snap.Net.Networking)|[Snap.Net.QueryString](https://github.com/DGP-Studio/Snap.Net.QueryString)|[Snap.Reflection](https://github.com/DGP-Studio/Snap.Reflection)|
 |[Snap.Threading](https://github.com/DGP-Studio/Snap.Threading)|[Snap.Win32](https://github.com/DGP-Studio/Snap.Win32)|
