@@ -1,16 +1,16 @@
 # DGP Studio
 
-|主体|[Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)|[Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)|[DGP.Genshin.GamebarWidget](https://github.com/DGP-Studio/DGP.Genshin.GamebarWidget)|
+|桌面软件|[Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)|[Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)|[DGP.Genshin.GamebarWidget](https://github.com/DGP-Studio/DGP.Genshin.GamebarWidget)|
 |-|-|-|-|
+
+|API|[Snap.HutaoAPI](https://github.com/DGP-Studio/Snap.HutaoAPI)|[Snap.Genshin.WebApiCore](https://github.com/DGP-Studio/Snap.Genshin.WebApiCore)|[Snap.Genshin.WebAPI](https://github.com/DGP-Studio/Snap.Genshin.WebAPI)|[Snap.Genshin.PatchAPI](https://github.com/DGP-Studio/Snap.Genshin.PatchAPI)|
+|-|-|-|-|-|
 
 |站点|[Snap.Genshin.Docs](https://github.com/DGP-Studio/Snap.Genshin.Docs)|[Snap.Genshin.HutaoWeb](https://github.com/DGP-Studio/Snap.Genshin.HutaoWeb)|
 |-|-|-|
 
 |安装器|[Snap.Genshin.Setup](https://github.com/DGP-Studio/Snap.Genshin.Setup)|[Snap.Genshin.Installer](https://github.com/DGP-Studio/Snap.Genshin.Installer)|
 |-|-|-|
-
-|API|[Snap.HutaoAPI](https://github.com/DGP-Studio/Snap.HutaoAPI)|[Snap.Genshin.WebApiCore](https://github.com/DGP-Studio/Snap.Genshin.WebApiCore)|[Snap.Genshin.WebAPI](https://github.com/DGP-Studio/Snap.Genshin.WebAPI)|[Snap.Genshin.PatchAPI](https://github.com/DGP-Studio/Snap.Genshin.PatchAPI)|
-|-|-|-|-|-|
 
 |工具|[Crawler-ghhw](https://github.com/DGP-Studio/Crawler-ghhw)|[DGP.Genshin.DataViewer](https://github.com/DGP-Studio/DGP.Genshin.DataViewer)|
 |-|-|-|
