@@ -1,29 +1,31 @@
 # DGP Studio
+> Home of Snap Genshin Foundation. In pursuit of the ultimate modern UI.
 
-|桌面软件|[Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)|[Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)|[DGP.Genshin.GamebarWidget](https://github.com/DGP-Studio/DGP.Genshin.GamebarWidget)|
-|-|-|-|-|
+## 桌面软件
+[胡桃 - Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)
 
-|API|[Snap.HutaoAPI](https://github.com/DGP-Studio/Snap.HutaoAPI)|[Snap.Genshin.WebApiCore](https://github.com/DGP-Studio/Snap.Genshin.WebApiCore)|[Snap.Genshin.WebAPI](https://github.com/DGP-Studio/Snap.Genshin.WebAPI)|[Snap.Genshin.PatchAPI](https://github.com/DGP-Studio/Snap.Genshin.PatchAPI)|
-|-|-|-|-|-|
+[胡桃文档 - Snap.Hutao.Docs](https://github.com/DGP-Studio/Snap.Hutao.Docs)
 
-|站点|[Snap.Genshin.Docs](https://github.com/DGP-Studio/Snap.Genshin.Docs)|[Snap.Genshin.HutaoWeb](https://github.com/DGP-Studio/Snap.Genshin.HutaoWeb)|
-|-|-|-|
+[SG - Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)（不再维护）
 
-|安装器|[Snap.Genshin.Setup](https://github.com/DGP-Studio/Snap.Genshin.Setup)|[Snap.Genshin.Installer](https://github.com/DGP-Studio/Snap.Genshin.Installer)|
-|-|-|-|
+## 开放 API
 
-|工具|[Crawler-ghhw](https://github.com/DGP-Studio/Crawler-ghhw)|[DGP.Genshin.DataViewer](https://github.com/DGP-Studio/DGP.Genshin.DataViewer)|
-|-|-|-|
+[胡桃 API v2 - Snap.Hutao.Server](https://github.com/DGP-Studio/Snap.Hutao.Server) with ASP.NET | EF Core
 
-## .NET 公共封装库
+[胡桃 API - Snap.HutaoAPI](https://github.com/DGP-Studio/Snap.HutaoAPI) （迁移中，不再维护）
 
-|[DGP.Genshin.MiHoYoAPI](https://github.com/DGP-Studio/DGP.Genshin.MiHoYoAPI)|[DGP.Genshin.HutaoAPI](https://github.com/DGP-Studio/DGP.Genshin.HutaoAPI)|[DGP.Genshin.FPSUnlocking](https://github.com/DGP-Studio/DGP.Genshin.FPSUnlocking)|
-|-|-|-|
+## 数据解析
 
-## .NET Snap 基础库
+[映射器 - Snap.Data.Mapper](https://github.com/DGP-Studio/Snap.Data.Mapper)
 
-|[Snap.Core.DependencyInjection](https://github.com/DGP-Studio/Snap.Core.DependencyInjection)|[Snap.Core.Logging](https://github.com/DGP-Studio/Snap.Core.Logging)|[Snap.Core.Mvvm](https://github.com/DGP-Studio/Snap.Core.Mvvm)|[Snap.Data.Json](https://github.com/DGP-Studio/Snap.Data.Json)|
-|:-:|:-:|:-:|:-:|
-|[Snap.Data.Primitive](https://github.com/DGP-Studio/Snap.Data.Primitive)|[Snap.Data.Utility](https://github.com/DGP-Studio/Snap.Data.Utility)|[Snap.Extension.Enumerable](https://github.com/DGP-Studio/Snap.Extension.Enumerable)|[Snap.Net.Afdian](https://github.com/DGP-Studio/Snap.Net.Afdian)|
-|[Snap.Net.Download](https://github.com/DGP-Studio/Snap.Net.Download)|[Snap.Net.Networking](https://github.com/DGP-Studio/Snap.Net.Networking)|[Snap.Net.QueryString](https://github.com/DGP-Studio/Snap.Net.QueryString)|[Snap.Reflection](https://github.com/DGP-Studio/Snap.Reflection)|
-|[Snap.Threading](https://github.com/DGP-Studio/Snap.Threading)|[Snap.Win32](https://github.com/DGP-Studio/Snap.Win32)|
+[元数据 - Snap.Metadata](https://github.com/DGP-Studio/Snap.Metadata)
+
+## 开放库
+
+[帧率解锁 - DGP.Genshin.FPSUnlocking](https://github.com/DGP-Studio/DGP.Genshin.FPSUnlocking) （不再维护）
+
+## 小工具
+
+[祈愿链接查找 - Snap.Hutao.GachaLog.UrlFinder](https://github.com/DGP-Studio/Snap.Hutao.GachaLog.UrlFinder)
+
+[Xbox树脂小组件 - DGP.Genshin.GamebarWidget](https://github.com/DGP-Studio/DGP.Genshin.GamebarWidget)
