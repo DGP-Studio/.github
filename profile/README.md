@@ -18,6 +18,4 @@
 [帧率解锁 - Unlocker](https://github.com/DGP-Studio/Unlocker)  
 
 ## 小工具
-
-[祈愿链接查找 - Snap.Hutao.GachaLog.UrlFinder](https://github.com/DGP-Studio/Snap.Hutao.GachaLog.UrlFinder)  
-[Xbox树脂小组件 - DGP.Genshin.GamebarWidget](https://github.com/DGP-Studio/DGP.Genshin.GamebarWidget)
+[星穹铁道解锁120帧](https://github.com/DGP-Studio/StarRail.FpsUnlocker)
