@@ -7,5 +7,5 @@
 [元数据 - Snap.Metadata](https://github.com/DGP-Studio/Snap.Metadata)
 
 ## 开放库
-[Discord GameSDK .NET 高性能包装](https://github.com/DGP-Studio/Snap.Discord.GameSDK)
+[Discord GameSDK .NET 高性能包装](https://github.com/DGP-Studio/Snap.Discord.GameSDK)  
 [帧率解锁 - Unlocker](https://github.com/DGP-Studio/Unlocker)  
