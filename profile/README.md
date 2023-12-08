@@ -1,6 +1,12 @@
 # DGP Studio
 > Home of Snap Genshin Foundation. In pursuit of the ultimate modern UI.
 
+## [DGP Automation](https://github.com/DGP-Automation)
+
+自动化流程相关的工具/产物存放组织
+
+## 主要仓库
+
 [胡桃 - Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)  
 [胡桃文档 - Snap.Hutao.Docs](https://github.com/DGP-Studio/Snap.Hutao.Docs)  
 [胡桃 API v2 - Snap.Hutao.Server](https://github.com/DGP-Studio/Snap.Hutao.Server)  
