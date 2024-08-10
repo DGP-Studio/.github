@@ -10,8 +10,9 @@
 <a href="https://trendshift.io/repositories/2009" target="_blank"><img src="https://trendshift.io/api/badge/repositories/2009" alt="DGP-Studio%2FSnap.Hutao | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>  
 [胡桃 - Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)  
 [胡桃文档 - Snap.Hutao.Docs](https://github.com/DGP-Studio/Snap.Hutao.Docs)  
-[胡桃 API v2 - Snap.Hutao.Server](https://github.com/DGP-Studio/Snap.Hutao.Server)  
+[胡桃 API - Snap.Hutao.Server](https://github.com/DGP-Studio/Snap.Hutao.Server)  
 [元数据 - Snap.Metadata](https://github.com/DGP-Studio/Snap.Metadata)
 
 ## 开放库
 [Discord GameSDK .NET 高性能包装](https://github.com/DGP-Studio/Snap.Discord.GameSDK)  
+[Zstandard .NET 高性能包装](https://github.com/DGP-Studio/Snap.ZStandard)  
